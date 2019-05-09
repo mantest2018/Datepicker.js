@@ -94,7 +94,7 @@ Datepicker.language["en"] = {
         "Syawwal",
         "Dhul-Qa'da",
         "Dhul-Hijja"
-    ];
+    ],
 };
 ```
 
